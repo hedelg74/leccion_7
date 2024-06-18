@@ -1,2 +1,7 @@
 # Leccion 7
-Ejercicios de git
+
+```
+<span style="color: green;">Ejercicios de git.</span>
+
+```
+
