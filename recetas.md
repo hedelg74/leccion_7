@@ -9,5 +9,6 @@ Ingredientes:
 - Salsa
 - Tocineta
 - Queso
+- Chotirzo
 
 ```
